@@ -27,7 +27,7 @@ We've provided you with a console that you can use to test your code. To enter a
 
 #### Build the following methods on the `Startup` class
 
-- `Startup#name`
+<!-- - `Startup#name`
   - returns a **string** that is the startup's name
 - `Startup#founder`
   - returns a **string** that is the founder's name
@@ -37,13 +37,13 @@ We've provided you with a console that you can use to test your code. To enter a
 - `Startup#pivot`
   - given a string of a **domain** and a string of a **name**, change the domain
     and name of the startup. This is the only public method through which the
-    domain should be changed.
-- `Startup.all`
-  - should return **all** of the startup instances
-- `Startup.find_by_founder`
-  - given a string of a **founder's name**, returns the **first startup** whose founder's name matches
-- `Startup.domains`
-  - should return an **array** of all of the different startup domains
+    domain should be changed. -->
+<!-- - `Startup.all`
+  - should return **all** of the startup instances -->
+<!-- - `Startup.find_by_founder`
+  - given a string of a **founder's name**, returns the **first startup** whose founder's name matches -->
+<!-- - `Startup.domains`
+  - should return an **array** of all of the different startup domains -->
 
 ---
 
